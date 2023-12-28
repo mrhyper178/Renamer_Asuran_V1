@@ -10,24 +10,24 @@
     "Caption"
   ],
   "website": "https://github.com/mrvishal2k2",
-  "repository": "https://github.com/mrvishal2k2/TG-RenameBot/tree/main",
+  "repository": "https://github.com/mrhyper178/Renamer_Asuran_V1/tree/main",
   "logo": "https://telegra.ph//file/b3461e7795bb258688623.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your bot token, Get it from @Botfather.",
-      "value": ""
+      "value": "5567847114:AAGrO_uulshxfHcqc1X7zygDxahRuyY2C4g"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "8733404"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "f19aed00b0c74abed0359016afc1733f"
     },
     "OWNER_ID": {
       "description": "Owner userid to use for getting logs..",
-      "value": ""
+      "value": "807374433"
     },
     "OWNER_USERNAME": {
       "description": "(Optional)Owners username to use at start msg button..",
