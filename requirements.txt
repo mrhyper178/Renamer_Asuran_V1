@@ -1,5 +1,5 @@
 # for functioning
-pyrogram==2.0.30
+git+https://github.com/KurimuzonAkuma/pyrogram.git
 tgcrypto
 requests
 
